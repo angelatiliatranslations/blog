@@ -1,14 +1,14 @@
 # Site settings
-title: Emerald | A simple Jekyll blog
+title: La linguista realista | Il blog di Tilia Translations
 description: "A minimal blog template, build with Jekyll."
-url: "http://www.jacoporabolini.com/emerald"
+url: "https://angelatiliatranslations.github.io/blog/"
 author:
-  name: "Jacopo Rabolini"
-  email: "hello@jacoporabolini.com"
-  url: "http://www.jacoporabolini.com"
+  name: "Angela Brisotto"
+  email: "angela@tiliatranslations.it"
+  url: "https://www.tiliatranslations.it/"
 
 # Build settings
-baseurl: /emerald # Change this to your relative path (ex: /blog/), or leave just a /
+baseurl: /emerald/blog/
 markdown: kramdown
 source: .
 destination: ./_site
