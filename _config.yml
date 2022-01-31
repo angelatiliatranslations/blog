@@ -8,7 +8,7 @@ author:
   url: "https://www.tiliatranslations.it/"
 
 # Build settings
-baseurl: /emerald/blog/
+baseurl: /
 markdown: kramdown
 source: .
 destination: ./_site
