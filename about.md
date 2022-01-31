@@ -8,4 +8,5 @@ Sono Angela Brisotto, una persona che parla più lingue e che di professione for
 Scopri qui di cosa mi occupo: <a href="https://www.tiliatranslations.it/">tiliatranslations.it</a>
 
 <a href="https://www.linkedin.com/in/angela-brisotto/">Seguimi su LinkedIn</a>
+
 <a href="https://www.instagram.com/tiliatranslationsangela/">Seguimi su Instagram</a>
