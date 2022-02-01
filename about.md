@@ -12,6 +12,7 @@ Buona lettura!
 Scopri qui di cosa mi occupo: <a href="https://www.tiliatranslations.it/">tiliatranslations.it</a>
 
 <a href="https://www.linkedin.com/in/angela-brisotto/">Seguimi su LinkedIn</a>
+<br>
 <a href="https://www.instagram.com/tiliatranslationsangela/">Seguimi su Instagram</a>
 
 ![Immagine profilo](https://user-images.githubusercontent.com/87431141/151979554-fae8560e-dbaa-4439-a4f8-ca20d3a849be.png)
