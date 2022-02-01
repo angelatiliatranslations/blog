@@ -1,0 +1,22 @@
+---
+title: Quanto ci vuole per imparare una lingua? Puntare su un allenamento costante è un’idea migliore
+---
+Una domanda che mi sono sentita rivolgere molto spesso negli anni, più o meno da quando iniziai il mio percorso da studentessa di lingue e letterature straniere nell’ormai lontano 2013, è proprio: “Quanto tempo ci vuole per imparare una lingua?” In sé non c’è niente di male nel rivolgere una domanda del genere, in particolare quando essa viene posta spontaneamente da una persona sinceramente curiosa. Fare domande su qualcosa che suscita il nostro interesse è un’abitudine più che salutare che mi sento di incoraggiare in qualunque ambito e che è un segnale di una mente attiva che sta elaborando le informazioni che riceve.
+
+Ritornando alla domanda di partenza, essa sembra racchiudere in sé un sentire comune che si basa su un preconcetto radicato nella società in cui viviamo: l’idea che per imparare una lingua ci voglia un determinato periodo di tempo e che quest’ultimo sia sempre e comunque quantificabile. Quest’idea dice molto sul fatto che si pensi all’imparare una lingua come a un percorso con una fine, quasi stessimo riempiendo un contenitore per poi chiuderlo ermeticamente con un tappo e riaprirlo solo all’occorrenza. Trovo che questo approccio non sia di grande aiuto per chi sta imparando o vuole imparare una lingua, e oggi appunto vorrei condividere con voi una strategia diversa che trovo non solo molto più efficace, ma anche più umana e facilmente attuabile.
+
+Vi consiglio di dare la priorità al creare una pratica costante piuttosto che contare gli anni che vi separano dal raggiungimento del vostro obbiettivo. Questo perché, molto probabilmente, non ci sarà un giorno in cui saprete tutto della lingua che state studiando, bensì sarà necessario che la teniate in allenamento costantemente – proprio come la ginnastica che fate per mantenere una certa tonicità o come la pratica continua che un musicista fa con il suo strumento musicale. L’esperienza accumulata negli anni, prima come studentessa e poi come professionista che lavora con le lingue che parla, mi ha portata a guardare all’apprendimento delle lingue anche come a una pianta in continua crescita. Una pianta per vivere non solo ha bisogno di avere delle radici solide per poter crescere in salute, ma necessita anche di nutrimento continuo. Questa è una metafora che mi piace particolarmente perché fa capire che le lingue sono un qualcosa che ha bisogno di essere mantenuto in vita giorno per giorno.
+
+Per questo motivo a chi me lo chiede consiglio di cominciare a costruire una pratica quotidiana o settimanale – la chiave è appunto la costanza – basata soprattutto su esercizi di ascolto e di conversazione. L’apprendimento di una lingua parte infatti proprio da questi aspetti, dal cominciare a comprenderla e decifrarla ascoltando, per poi, mano a mano, cominciare a sperimentarne i suoni e le strutture parlando con qualcuno. Se ci pensate, è quello che fanno spontaneamente i bambini crescendo ed è un percorso che anche una persona adulta può provare a replicare se ci si mette d’impegno.
+
+Certo, lo studio della grammatica e dell’ortografia, per non dimenticare l’esercizio della lettura – attività su cui lo studio delle lingue in Italia si basa fortemente – sono attività molto importanti, ma a mio parere dovrebbero far parte di una fase successiva, meno immediata, in cui si dedica del tempo a riflettere sulla lingua che si sta imparando e a analizzare le sue caratteristiche e particolarità. Tutto questo verrà a suo tempo e sarà un aiuto importante per raggiungere la padronanza di una certa lingua, ma non è necessariamente il primo passo da compiere.
+
+Se sentite di avere già una buona base di grammatica, tanto meglio. Poggiateci i piedi sopra e usatela per fare il salto successivo: cominciate a ascoltare e a parlare! Ricordate che tutto parte dall’aprire le orecchie e cominciare a ascoltare il suono di una lingua per poi iniziare a imitarla, giocando a ripeterne i suoni, cesellandoli, e provando a dire le vostre prime frasi in una vera conversazione con un’altra persona.
+
+Le lingue sono un qualcosa di vivo: non lo scordate.
+I miei migliori auguri per il percorso che si apre davanti a voi!
+
+— Angela Brisotto
+
+Scopri di più sul mio lavoro: <a href="https://www.tiliatranslations.it/">tiliatranslations.it</a> <br>
+Il mio blog: <a href="https://angelatiliatranslations.github.io/blog/">La linguista realista</a>
