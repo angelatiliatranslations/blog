@@ -4,6 +4,7 @@ title: Chi sono
 ---
 ## Chi sono
 
+<br>
 Sono Angela Brisotto, una persona che parla più lingue e che di professione fornisce diversi servizi linguistici. Il mio blog raccoglie informazioni sulla traduzione come professione e ispirazioni per chi ha passione per le lingue. Ti auguro una buona lettura!
 
 Scopri qui di cosa mi occupo: <a href="https://www.tiliatranslations.it/">tiliatranslations.it</a>
