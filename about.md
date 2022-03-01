@@ -18,4 +18,4 @@ Seguimi su <a href="https://www.linkedin.com/in/angela-brisotto/">LinkedIn</a>.
 Seguimi su <a href="https://www.instagram.com/tiliatranslationsangela/">Instagram</a>.
 
 
-![Immagine profilo](https://user-images.githubusercontent.com/87431141/151979554-fae8560e-dbaa-4439-a4f8-ca20d3a849be.png)
+![Immagine profilo](https://user-images.githubusercontent.com/87431141/156187894-20b80b1b-eba6-41bf-9c3c-3f1ddf88ef97.png)
