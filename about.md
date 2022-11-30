@@ -5,7 +5,7 @@ title: Chi sono
 ## Chi sono
 
 <br>
-Mi chiamo Angela Brisotto, sono nata e cresciuta in Italia nel trevigiano, ma parlo anche inglese e polacco. Dopo aver seguito un percorso accademico in lingue e letterature straniere specializzandomi in teatro contemporaneo britannico, ho pubblicato due interviste a artistɜ emergenti sulla rivista newyorkese The Brooklyn Rail e ho iniziato a fornire diversi servizi linguistici: traduzioni, revisioni, trascrizioni e lezioni di inglse. <em>La linguista realista</em> è uno spazio che raccoglie spunti, informazioni e curiosità sulla mia esperienza professionale e consigli realistici per chi è appassionatә di lingue.
+Mi chiamo Angela Brisotto, sono nata e cresciuta in Italia nel trevigiano, ma parlo anche inglese e polacco. Dopo aver seguito un percorso accademico in lingue e letterature straniere specializzandomi in teatro contemporaneo britannico, ho pubblicato due interviste a artistә emergenti sulla rivista newyorkese The Brooklyn Rail e ho iniziato a fornire diversi servizi linguistici: traduzioni, revisioni, trascrizioni e lezioni di inglese. <em>La linguista realista</em> è uno spazio che raccoglie spunti, informazioni e curiosità sulla mia esperienza professionale e consigli realistici per chi è appassionatә di lingue.
 
 Buona lettura!
 
