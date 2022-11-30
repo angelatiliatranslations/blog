@@ -4,6 +4,8 @@ title: Consigli di lettura
 ---
 ## Consigli di lettura
 
+![consigli di lettura](https://user-images.githubusercontent.com/87431141/204844615-78bd112e-25d7-402b-85f2-92a2737d36ae.jpg)
+
 <p>
 Da persona appassionata di linguistica che impara tantissimo grazie alla lettura, non posso fare a meno di condividere con voi una lista di consigli di lettura che aggiornerò in modo perpetuo. Spero possa esservi utile!
 </p>
