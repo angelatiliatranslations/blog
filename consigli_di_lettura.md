@@ -2,7 +2,8 @@
 layout: page
 title: Consigli di lettura
 ---
-## Consigli di lettura sulle lingue e la linguistica
+## Consigli di lettura
+### per approfondire temi legati alle lingue, le parole e il linguaggio
 <br>
 <p>
 Da persona appassionata di linguistica che impara tantissimo leggendo, non posso fare a meno di condividere con voi una lista di consigli di lettura tematici che aggiornerò in modo perpetuo. Spero possa esservi utile!
