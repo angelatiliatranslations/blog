@@ -2,11 +2,11 @@
 layout: page
 title: Consigli di lettura
 ---
-## Consigli di lettura
+## Consigli di lettura in lingua italiana
 ### per approfondire temi legati alle lingue, le parole e il linguaggio
 <br>
 <p>
-Da persona appassionata di linguistica che impara tantissimo leggendo, non posso fare a meno di condividere con voi una lista di consigli di lettura tematici che aggiornerò in modo perpetuo. Spero possa esservi utile!
+Da persona appassionata di linguistica che impara tantissimo leggendo, non posso fare a meno di condividere con voi una lista di consigli di lettura tematici scritti in italiano che aggiornerò in modo perpetuo. Spero possa esservi utile!
 </p>
 <ul>
   <li>Arianna Cavallo, Ludovica Lugli, Massimo Prearo (a cura di), <b>Questioni di un certo genere</b>, Iperborea e Il Post, 2021. ISBN: 9788870919530</li>
