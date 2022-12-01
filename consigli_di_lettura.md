@@ -4,6 +4,7 @@ title: Consigli di lettura
 ---
 ## Consigli di lettura in lingua italiana
 #### per approfondire temi legati alle lingue, le parole e il linguaggio
+<br>
 <p>
 Da persona appassionata di linguistica che impara tantissimo leggendo, non posso fare a meno di condividere con voi una lista di consigli tematici scritti in italiano che aggiornerò in modo perpetuo. Buona lettura!
 </p>
