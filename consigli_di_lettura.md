@@ -4,7 +4,7 @@ title: Bibliografia di linguistica
 ---
 ## Bibliografia di linguistica
 #### Consigli di lettura in lingua italiana per ampliare insieme la nostra cultura linguistica e muoverci meglio nel mondo
-<br>
+![banner consigli di lettura](https://user-images.githubusercontent.com/87431141/225341838-5b729b56-3103-4ed0-84d9-1e1b87f8ad3f.png)
 <p>
 Ecco a voi una lista di testi scritti in italiano che ruotano attorno ai temi delle lingue, delle parole e del linguaggio che aggiornerò in modo perpetuo. Buona lettura!
 </p>
@@ -15,4 +15,3 @@ Ecco a voi una lista di testi scritti in italiano che ruotano attorno ai temi de
   <br>
   <li>Vera Gheno, <b>Le ragioni del dubbio. L’arte di usare le parole</b>, Einaudi, 2021. ISBN 9788806247911</li>
 </ul>
-![consigli di lettura](https://user-images.githubusercontent.com/87431141/204844615-78bd112e-25d7-402b-85f2-92a2737d36ae.jpg)
