@@ -3,7 +3,8 @@ layout: page
 title: Bibliografia di linguistica
 ---
 ## BIBLIOGRAFIA DI LINGUISTICA
-#### Consigli di lettura in lingua italiana per ampliare insieme la nostra cultura linguistica e muoverci meglio nel mondo
+##### Consigli di lettura in lingua italiana per ampliare insieme la nostra cultura linguistica e muoverci meglio nel mondo
+<BR>
 ![banner consigli di lettura](https://user-images.githubusercontent.com/87431141/225341838-5b729b56-3103-4ed0-84d9-1e1b87f8ad3f.png)
 <p>
 Ecco a voi una lista di testi scritti in italiano che ruotano attorno ai temi delle lingue, delle parole e del linguaggio che aggiornerò in modo perpetuo. Buona lettura!
