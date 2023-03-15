@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Bibliografia di linguistica
+title: BIBLIOGRAFIA DI LINGUISTICA
 ---
 ## Bibliografia di linguistica
 #### Consigli di lettura in lingua italiana per ampliare insieme la nostra cultura linguistica e muoverci meglio nel mondo
