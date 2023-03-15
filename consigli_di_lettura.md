@@ -1,8 +1,8 @@
 ---
 layout: page
-title: BIBLIOGRAFIA DI LINGUISTICA
+title: Bibliografia di linguistica
 ---
-## Bibliografia di linguistica
+## BIBLIOGRAFIA DI LINGUISTICA
 #### Consigli di lettura in lingua italiana per ampliare insieme la nostra cultura linguistica e muoverci meglio nel mondo
 ![banner consigli di lettura](https://user-images.githubusercontent.com/87431141/225341838-5b729b56-3103-4ed0-84d9-1e1b87f8ad3f.png)
 <p>
