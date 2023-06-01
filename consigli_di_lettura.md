@@ -5,7 +5,7 @@ title: Bibliografia di educazione linguistica
 ## BIBLIOGRAFIA DI EDUCAZIONE LINGUISTICA
 ##### Consigli di lettura in lingua italiana per ampliare insieme la nostra cultura linguistica e muoverci meglio nel mondo
 <BR>
-![banner consigli di lettura2](https://github.com/angelatiliatranslations/blog/assets/87431141/2811da1b-63b7-45a6-9706-0b9fe8838b79)
+![banner consigli di lettura3](https://github.com/angelatiliatranslations/blog/assets/87431141/68c06ce3-14d0-4648-9475-f2ba5a32db35)
 <p>
 Ecco a voi una lista di testi scritti in italiano che ruotano attorno ai temi delle lingue, delle parole e del linguaggio che aggiornerò in modo perpetuo. Buona lettura!
 </p>
