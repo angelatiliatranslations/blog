@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Bibliografia di linguistica
+title: Bibliografia di educazione linguistica
 ---
-## BIBLIOGRAFIA DI LINGUISTICA
+## BIBLIOGRAFIA DI EDUCAZIONE LINGUISTICA
 ##### Consigli di lettura in lingua italiana per ampliare insieme la nostra cultura linguistica e muoverci meglio nel mondo
 <BR>
-![banner consigli di lettura](https://user-images.githubusercontent.com/87431141/225341838-5b729b56-3103-4ed0-84d9-1e1b87f8ad3f.png)
+![banner consigli di lettura2](https://github.com/angelatiliatranslations/blog/assets/87431141/2811da1b-63b7-45a6-9706-0b9fe8838b79)
 <p>
 Ecco a voi una lista di testi scritti in italiano che ruotano attorno ai temi delle lingue, delle parole e del linguaggio che aggiornerò in modo perpetuo. Buona lettura!
 </p>
@@ -15,4 +15,6 @@ Ecco a voi una lista di testi scritti in italiano che ruotano attorno ai temi de
   <li>Vera Gheno, <b>Femminili singolari</b>, effequ, 2021. ISBN 9791280263216</li>
   <br>
   <li>Vera Gheno, <b>Le ragioni del dubbio. L’arte di usare le parole</b>, Einaudi, 2021. ISBN 9788806247911</li>
+  <br>
+  <li>Kübra Gümüsay, <b>Lingua e essere</b>, Fandango Libri, 2021. ISBN 9788860447357</li>
 </ul>
