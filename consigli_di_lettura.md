@@ -17,4 +17,8 @@ Ecco a voi una lista di testi scritti in italiano che ruotano attorno ai temi de
   <li>Vera Gheno, <b>Le ragioni del dubbio. L’arte di usare le parole</b>, Einaudi, 2021. ISBN 9788806247911</li>
   <br>
   <li>Kübra Gümüsay, <b>Lingua e essere</b>, Fandango Libri, 2021. ISBN 9788860447357</li>
+  <br>
+  <li>Vera Gheno, <b>Potere alle parole: perché usarle meglio</b>, Einaudi, 2019. ISBN 9788806240233</li>
+  <br>
+  <li>Claudia Bianchi, <b>Hate speech: il lato oscuro del linguaggio</b>, Laterza, 2021. ISBN 9788858143094</li>
 </ul>
