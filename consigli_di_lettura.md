@@ -21,4 +21,6 @@ Ecco a voi una lista di testi scritti in italiano che ruotano attorno ai temi de
   <li>Vera Gheno, <b>Potere alle parole: perché usarle meglio</b>, Einaudi, 2019. ISBN 9788806240233</li>
   <br>
   <li>Claudia Bianchi, <b>Hate speech: il lato oscuro del linguaggio</b>, Laterza, 2021. ISBN 9788858143094</li>
+  <br>
+  <li>Manuela Manera, <b>La lingua che cambia: rappresentare le identità di genere, creare gli immaginari, aprire lo spazio linguistico</b>, Eris, 2021. ISBN 9791280495303</li>
 </ul>
